@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "okr-plugin",
+  "version": "0.1.0",
+  "description": "用中文起草、检查和改写可衡量的 OKR。"
+}
